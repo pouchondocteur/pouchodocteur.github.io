@@ -1,0 +1,68 @@
+header .nav-list {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+header .nav-list a{
+    color: white;
+    text-decoration: none;
+}
+header{
+    height: 150px;
+    background: black;
+}
+form{
+    display: flex;
+}
+form div{
+    margin-right: 30px;
+}
+.user{
+    position: absolute;
+    right: 30px;
+    color: white;
+}
+.le-bu{
+    width: 100px;
+    padding: 5px;;
+}
+.logo a{
+    color: white;
+}
+.partie-user{
+  position: absolute;
+  color: white;
+  right: 90px;
+}
+.line-bar input{ 
+    margin-bottom: 20px;
+}
+table{
+    
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid black;
+}
+.sections{
+    margin: 10px;
+}
+.les-bars{
+    color: white;
+    display: none;
+}
+
+@media(max-width:575px){
+    .les-bars{
+        display: block;
+        z-index: 999;
+    }
+    nav .nav-list{
+        display: none;
+        text-align: center;
+    }
+}
+.logo a{
+    color: white;
+    text-decoration: none;
+}

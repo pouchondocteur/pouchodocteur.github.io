@@ -1,0 +1,16 @@
+                  [ZoeTech]
+-Le repertoire "db" contient la base de donnee du projet. Pour l'importer:
+   1-Il faut aller dans phpmyadmin.
+   2-Creer une nouvelle base de donnee,donne lui le meme nom que la base de donnee du repertoire "db".
+   3-Clicker sur la nouvelle base de donnee,puis aller a l'onglet import,importe la.
+-Pour se connecter en tant qu'administrateur il faut entrer .
+   -"le nom du projet/admin"
+   -L'email par defaut est "ccipn@gmail.com" .
+   -le mot de passe par defaut est "1234" .
+
+
+
+
+                [webmaster]
+Desir Renaldo
+Cherellus Jose Merlandeka
